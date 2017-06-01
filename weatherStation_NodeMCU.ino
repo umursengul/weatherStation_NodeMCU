@@ -1,6 +1,9 @@
 /*********************************************************************/
 /*              Multisensor Remote Sensing with NodeMCU              */
 /*                                                                   */
+/* by Umur Ozhan SENGUL                                              */
+/* based on https://goo.gl/8nXTfC                                    */
+/* under GPLv3                                                       */
 /*                                                                   */
 /*********************************************************************/
 
